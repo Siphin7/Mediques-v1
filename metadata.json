@@ -1,0 +1,7 @@
+{
+  "name": "MediQues",
+  "description": "Your Health, Connected - Production patient healthcare application for appointments, live queues, medical records, AI summaries, and care coordination.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
